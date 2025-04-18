@@ -85,5 +85,5 @@ The AZ-204 exam validates skills related to:
 ## 📚 Resources
 
 - [AZ-204 Certification Overview](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/)
-- [Microsoft Learn: AZ-204 Training Paths](https://learn.microsoft.com/en-us/training/paths/develop-applications-azure/)
-- [Exam Sandbox](https://aka.ms/examdemo)
+- [Microsoft Learn: AZ-204 Training Paths](https://learn.microsoft.com/en-us/training/courses/az-204t00/)
+- [Practice Assessment](https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/practice/assessment?assessment-type=practice&assessmentId=35&practice-assessment-type=certification)
