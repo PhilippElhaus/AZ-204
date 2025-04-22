@@ -22,12 +22,12 @@ The AZ-204 exam validates skills related to:
 - ✅ 1.1.4 Create solutions by using Azure Container Apps
 
 #### 1.2 Implement Azure App Service Web Apps
-- ❌ 1.2.1 Create an Azure App Service Web App
-- ❌ 1.2.2 Configure and implement diagnostics and logging
-- ❌ 1.2.3 Deploy code and containerized solutions
-- ❌ 1.2.4 Configure settings including Transport Layer Security (TLS), API settings, and serviceconnections
-- ❌ 1.2.5 Implement autoscaling
-- ❌ 1.2.6 Configure deployment slots
+- ✅ 1.2.1 Create an Azure App Service Web App
+- ✅ 1.2.2 Configure and implement diagnostics and logging
+- ✅ 1.2.3 Deploy code and containerized solutions
+- ✅ 1.2.4 Configure settings including Transport Layer Security (TLS), API settings, and serviceconnections
+- ✅ 1.2.5 Implement autoscaling
+- ✅ 1.2.6 Configure deployment slots
 
 #### 1.3 Implement Azure Functions
 - ❌ 1.3.1 Create and configure an Azure Functions app
