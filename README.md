@@ -30,9 +30,9 @@ The AZ-204 exam validates skills related to:
 - ✅ 1.2.6 Configure deployment slots
 
 #### 1.3 Implement Azure Functions
-- ❌ 1.3.1 Create and configure an Azure Functions app
-- ❌ 1.3.2 Implement input and output bindings
-- ❌ 1.3.3 Implement function triggers by using data operations, timers, and webhooks
+- ✅ 1.3.1 Create and configure an Azure Functions app
+- ✅ 1.3.2 Implement input and output bindings
+- ✅ 1.3.3 Implement function triggers by using data operations, timers, and webhooks
 
 ### 2. Develop for Azure Storage (15–20%)
 
