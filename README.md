@@ -37,9 +37,9 @@ The AZ-204 exam validates skills related to:
 ### 2. Develop for Azure Storage (15–20%)
 
 #### 2.1 Develop solutions that use Azure Cosmos DB
-- ❌ 2.1.1 Perform operations on containers and items by using the SDK
-- ❌ 2.1.2 Set the appropriate consistency level for operations
-- ❌ 2.1.3 Implement change feed notifications
+- ✅ 2.1.1 Perform operations on containers and items by using the SDK
+- ✅ 2.1.2 Set the appropriate consistency level for operations
+- ✅ 2.1.3 Implement change feed notifications
 
 #### 2.2 Develop solutions that use Azure Blob Storage
 - ❌ 2.2.1 Set and retrieve properties and metadata
