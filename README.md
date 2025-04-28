@@ -42,9 +42,9 @@ The AZ-204 exam validates skills related to:
 - ✅ 2.1.3 Implement change feed notifications
 
 #### 2.2 Develop solutions that use Azure Blob Storage
-- ❌ 2.2.1 Set and retrieve properties and metadata
-- ❌ 2.2.2 Perform operations on data by using the appropriate SDK
-- ❌ 2.2.3 Implement storage policies and data lifecycle management Authenticate
+- ✅ 2.2.1 Set and retrieve properties and metadata
+- ✅ 2.2.2 Perform operations on data by using the appropriate SDK
+- ✅ 2.2.3 Implement storage policies and data lifecycle management Authenticate
 
 ### 3. Implement Azure security (15–20%)
 
