@@ -44,15 +44,15 @@ The AZ-204 exam validates skills related to:
 #### 2.2 Develop solutions that use Azure Blob Storage
 - ✅ 2.2.1 Set and retrieve properties and metadata
 - ✅ 2.2.2 Perform operations on data by using the appropriate SDK
-- ✅ 2.2.3 Implement storage policies and data lifecycle management Authenticate
+- ✅ 2.2.3 Implement storage policies and data lifecycle management 
 
 ### 3. Implement Azure security (15–20%)
 
 #### 3.1 Implement user authentication and authorization
-- ❌ 3.1.1 Authenticate and authorize users by using the Microsoft Identity platform
-- ❌ 3.1.2 Authenticate and authorize users and apps by using Microsoft Entra ID
-- ❌ 3.1.3 Create and implement shared access signatures
-- ❌ 3.1.4 Implement solutions that interact with Microsoft Graph
+- ✅ 3.1.1 Authenticate and authorize users by using the Microsoft Identity platform
+- ✅ 3.1.2 Authenticate and authorize users and apps by using Microsoft Entra ID
+- ✅ 3.1.3 Create and implement shared access signatures
+- ✅ 3.1.4 Implement solutions that interact with Microsoft Graph
 
 #### 3.2 Implement secure Azure solutions
 - ❌ 3.2.1 Secure app configuration data by using App Configuration or Azure Key Vault
