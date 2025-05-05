@@ -55,9 +55,9 @@ The AZ-204 exam validates skills related to:
 - ✅ 3.1.4 Implement solutions that interact with Microsoft Graph
 
 #### 3.2 Implement secure Azure solutions
-- ❌ 3.2.1 Secure app configuration data by using App Configuration or Azure Key Vault
-- ❌ 3.2.2 Develop code that uses keys, secrets, and certificates stored in Azure Key Vault
-- ❌ 3.2.3 Implement Managed Identities for Azure resources
+- ✅ 3.2.1 Secure app configuration data by using App Configuration or Azure Key Vault
+- ✅ 3.2.2 Develop code that uses keys, secrets, and certificates stored in Azure Key Vault
+- ✅ 3.2.3 Implement Managed Identities for Azure resources
 
 ### 4. Monitor and troubleshoot Azure solutions (5–10%)
 
