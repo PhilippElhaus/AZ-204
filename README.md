@@ -62,9 +62,9 @@ The AZ-204 exam validates skills related to:
 ### 4. Monitor and troubleshoot Azure solutions (5–10%)
 
 #### 4.1 Monitor and troubleshoot solutions by using Application Insights
-- ❌ 4.1.1 Monitor and analyze metrics, logs, and traces
-- ❌ 4.1.2 Implement Application Insights web tests and alerts
-- ❌ 4.1.3 Instrument an app or service to use Application Insights
+- ✅ 4.1.1 Monitor and analyze metrics, logs, and traces
+- ✅ 4.1.2 Implement Application Insights web tests and alerts
+- ✅ 4.1.3 Instrument an app or service to use Application Insights
 
 ### 5. Connect to and consume Azure services and third-party services (20–25%)
 
