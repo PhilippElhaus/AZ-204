@@ -69,8 +69,8 @@ The AZ-204 exam validates skills related to:
 ### 5. Connect to and consume Azure services and third-party services (20–25%)
 
 #### 5.1 Implement API Management
-- ❌ 5.1.1 Create an Azure API Management instance
-- ❌ 5.1.2 Create and document APIs
+- ✅ 5.1.1 Create an Azure API Management instance
+- ✅ 5.1.2 Create and document APIs
 - ❌ 5.1.3 Configure access to APIs
 - ❌ 5.1.4 Implement policies for APIs
 
