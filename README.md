@@ -75,12 +75,12 @@ The AZ-204 exam validates skills related to:
 - ✅ 5.1.4 Implement policies for APIs
 
 #### 5.2 Develop event-based solutions
-- ❌ 5.2.1 Implement solutions that use Azure Event Grid
-- ❌ 5.2.2 Implement solutions that use Azure Event Hub
+- ✅ 5.2.1 Implement solutions that use Azure Event Grid
+- ✅ 5.2.2 Implement solutions that use Azure Event Hub
 
 #### 5.3 Develop message-based solutions
-- ❌ 5.3.1 Implement solutions that use Azure Service Bus
-- ❌ 5.3.2 Implement solutions that use Azure Queue Storage queues
+- ✅ 5.3.1 Implement solutions that use Azure Service Bus
+- ✅ 5.3.2 Implement solutions that use Azure Queue Storage queues
 
 ## 📚 Resources
 
